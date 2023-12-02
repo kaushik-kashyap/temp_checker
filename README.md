@@ -4,4 +4,4 @@ this is a simple program that asks the user a input the place and it will print 
 
 NOTE:
 
-enter your open api key in the key variable in the string form
+enter your openweather api key in the key variable in the string form
